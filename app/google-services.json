@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "142496586991",
+    "firebase_url": "https://secret-messenger-3d03a.firebaseio.com",
+    "project_id": "secret-messenger-3d03a",
+    "storage_bucket": "secret-messenger-3d03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142496586991:android:47cddef13a8edef8",
+        "android_client_info": {
+          "package_name": "com.trikersdev.secret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142496586991-ln216de1vk2m761k32qeq1c2vkpo2jj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOBb49SECE0rFCZGZNKZVgbAz2TdtVpn8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
